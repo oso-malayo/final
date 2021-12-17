@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 1000 1000" version="1.1" viewBox="0 0 1000 1000" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:#6F6F6E;}
+	.st1{fill:none;stroke:#1D1D1B;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#6F6F6E;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{fill:#050506;}
+	.st4{opacity:0.74;}
+	.st5{fill:url(#SVGID_1_);}
+	.st6{fill:url(#SVGID_2_);}
+	.st7{fill:url(#SVGID_3_);}
+	.st8{fill:url(#SVGID_4_);}
+	.st9{fill:none;}
+	.st10{fill:url(#SVGID_5_);}
+	.st11{fill:url(#SVGID_6_);}
+	.st12{fill:#87405A;}
+	.st13{opacity:0.39;}
+	.st14{clip-path:url(#SVGID_8_);}
+	.st15{fill:#191919;}
+	.st16{fill:#202020;}
+	.st17{fill:#B27E90;}
+	.st18{fill:#121211;}
+	.st19{fill:#A68095;}
+	.st20{fill:#804168;}
+	.st21{fill:#A4657C;}
+	.st22{fill:#C49FAC;}
+	.st23{fill:#915C7D;}
+	.st24{fill:#976683;}
+	.st25{fill:#A3637B;}
+	.st26{fill:#884E72;}
+	.st27{fill:#A6687F;}
+	.st28{fill:#A05E77;}
+	.st29{fill:#C7A4B1;}
+	.st30{fill:#CCACB7;}
+	.st31{fill:#9A536E;}
+	.st32{fill:#732D59;}
+	.st33{fill:#BB8D9D;}
+	.st34{fill:#A27B90;}
+	.st35{fill:#B48192;}
+	.st36{fill:#9E5973;}
+	.st37{fill:#C3A9B8;}
+	.st38{fill:#CDADB9;}
+	.st39{fill:#C197A7;}
+	.st40{fill:#BF95A5;}
+	.st41{fill:#BB8F9F;}
+	.st42{fill:#AE778A;}
+	.st43{fill:#8C5678;}
+	.st44{fill:#A5667E;}
+	.st45{fill:#9F5C76;}
+	.st46{fill:#974E6B;}
+	.st47{fill:#964C69;}
+	.st48{fill:#CBB6C2;}
+	.st49{fill:#A16078;}
+	.st50{fill:#A76A80;}
+	.st51{fill:#B68496;}
+	.st52{fill:#A57F93;}
+	.st53{fill:#9B5470;}
+	.st54{fill:#BD91A0;}
+	.st55{fill:#9C5671;}
+	.st56{fill:#99516D;}
+	.st57{fill:#804369;}
+	.st58{fill:#AF8C9F;}
+	.st59{fill:#9F5B75;}
+	.st60{fill:#75305C;}
+	.st61{fill:#D9C9D2;}
+	.st62{fill:#A2627A;}
+	.st63{fill:#A47E92;}
+	.st64{fill:#793861;}
+	.st65{fill:#AA6F83;}
+	.st66{fill:#C49DAB;}
+	.st67{fill:#B07A8D;}
+	.st68{fill:#7D3D65;}
+	.st69{fill:#B58394;}
+	.st70{fill:#B88A9B;}
+	.st71{fill:#030404;}
+	.st72{fill:#BF94A3;}
+	.st73{fill:#7B3962;}
+	.st74{fill:#C5A0AE;}
+	.st75{fill:#BD92A2;}
+	.st76{fill:#C7A3B0;}
+	.st77{fill:#1C1C1C;}
+	.st78{fill:#C299A7;}
+	.st79{fill:#B99AAE;}
+	.st80{fill:#AC869D;}
+	.st81{fill:#C4ACB9;}
+	.st82{fill:#B594A6;}
+	.st83{fill:#CBAAB6;}
+	.st84{fill:#AB7286;}
+	.st85{fill:#83486D;}
+	.st86{fill:#131313;}
+	.st87{fill:#702A58;}
+	.st88{fill:#A37C91;}
+	.st89{fill:#B98B9C;}
+	.st90{fill:#AC7488;}
+	.st91{fill:#76325D;}
+	.st92{fill:#111111;}
+	.st93{fill:#984F6C;}
+	.st94{fill:#77345E;}
+	.st95{fill:#040505;}
+	.st96{fill:#0E0E0E;}
+	.st97{fill:#212121;}
+	.st98{fill:#070808;}
+	.st99{fill:#1A1A1A;}
+	.st100{fill:#08090A;}
+	.st101{fill:#1D1D1D;}
+	.st102{fill:#A86C80;}
+	.st103{fill:#1F1F1F;}
+	.st104{fill:#151515;}
+	.st105{fill:#AD7689;}
+	.st106{fill:#0A0B0B;}
+	.st107{fill:#6D2554;}
+	.st108{fill:url(#SVGID_9_);}
+	.st109{fill:url(#SVGID_10_);}
+	.st110{fill:url(#SVGID_11_);}
+	.st111{fill:url(#SVGID_12_);}
+	.st112{fill:url(#SVGID_13_);}
+	.st113{fill:url(#SVGID_14_);}
+	.st114{clip-path:url(#SVGID_16_);}
+	.st115{fill:url(#SVGID_17_);}
+	.st116{fill:url(#SVGID_18_);}
+	.st117{fill:url(#SVGID_19_);}
+	.st118{fill:url(#SVGID_20_);}
+	.st119{fill:url(#SVGID_21_);}
+	.st120{fill:url(#SVGID_22_);}
+	.st121{clip-path:url(#SVGID_24_);}
+	.st122{fill:#705843;}
+	.st123{font-family:"Roboto", sans-serif;}
+	.st124{font-size:56.811px;}
+	.st125{fill:#1E1E1C;}
+	.st126{font-family:"Roboto", sans-serif;}
+	.st127{font-size:49.8912px;}
+	.st128{fill:none;stroke:#4E4F4E;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1,1;}
+	.st129{fill:#4E4F4E;}
+	.st130{fill:none;stroke:#4E4F4E;stroke-width:0.75;stroke-miterlimit:10;stroke-dasharray:1,1;}
+	.st131{fill:#616160;}
+	.st132{fill:#DD6F0D;}
+	.st133{fill:#FFFFFF;}
+	.st134{font-family:"Roboto", sans-serif;}
+	.st135{font-size:47.0316px;}
+</style>
+		<text class="st122 st123 st124" transform="translate(227.45 172.67)">PRINCIPALES AMENAZAS</text>
+		<text transform="translate(739.82 752.4)"><tspan class="st125 st126 st127" x="0" y="0">Venta</tspan><tspan class="st125 st126 st127" x="-8.21" y="59.87">animal</tspan><tspan class="st125 st126 st127" x="-14.82" y="119.74">exótico</tspan></text>
+		<text transform="translate(473.18 752.4)"><tspan class="st125 st126 st127" x="0" y="0">Venta</tspan><tspan class="st125 st126 st127" x="-6.14" y="59.87">partes</tspan><tspan class="st125 st126 st127" x="-45.1" y="119.74">del cuerpo</tspan></text>
+		<text class="st125 st126 st127" transform="translate(127.38 752.4)">Deforestación</text>
+			<line class="st128" x1="284.25" x2="284.25" y1="574.66" y2="706.19"/>
+				<path class="st129" d="m282.37 706.09c0 1.04 0.84 1.88 1.88 1.88s1.88-0.84 1.88-1.88-0.84-1.88-1.88-1.88-1.88 0.85-1.88 1.88z"/>
+	<line class="st128" x1="670.26" x2="670.26" y1="574.66" y2="663.53"/>
+	<line class="st130" x1="586.67" x2="617.2" y1="530.22" y2="530.22"/>
+		<line class="st130" x1="703.44" x2="262.05" y1="241.36" y2="241.36"/>
+		<line class="st130" x1="484.12" x2="484.12" y1="196.92" y2="241.36"/>
+		<line class="st130" x1="263.43" x2="263.43" y1="241.36" y2="285.8"/>
+		<line class="st130" x1="704.82" x2="704.82" y1="241.36" y2="285.8"/>
+	<circle class="st132" cx="284.27" cy="419.12" r="155.54"/>
+	<circle class="st132" cx="683.86" cy="419.12" r="155.54"/>
+	<text transform="translate(212.4 377.72)"><tspan class="st133 st134 st135" x="0" y="0">Pérdida</tspan><tspan class="st133 st134 st135" x="-56.39" y="56.44">progresiva de</tspan><tspan class="st133 st134 st135" x="-21.4" y="112.88">su hábitat</tspan></text>
+		<text transform="translate(634.49 405.94)"><tspan class="st133 st134 st135" x="0" y="0">Caza </tspan><tspan class="st133 st134 st135" x="-45.06" y="56.44">Comercial</tspan></text>
+	<line class="st128" x1="528.32" x2="794.96" y1="663.53" y2="663.53"/>
+			<line class="st128" x1="528.32" x2="528.32" y1="667.1" y2="705.59"/>
+				<circle class="st129" cx="528.32" cy="705.49" r="1.88"/>
+			<line class="st128" x1="794.96" x2="794.96" y1="667.1" y2="705.59"/>
+				<circle class="st129" cx="794.96" cy="705.49" r="1.88"/>
+</svg>
